@@ -1,0 +1,12 @@
+C:\Users\shayi\source\repos\maskIP\maskingTool\bin\Debug\net5.0\maskingTool.deps.json
+C:\Users\shayi\source\repos\maskIP\maskingTool\bin\Debug\net5.0\maskingTool.dll
+C:\Users\shayi\source\repos\maskIP\maskingTool\bin\Debug\net5.0\ref\maskingTool.dll
+C:\Users\shayi\source\repos\maskIP\maskingTool\bin\Debug\net5.0\maskingTool.pdb
+C:\Users\shayi\source\repos\maskIP\maskingTool\obj\Debug\net5.0\maskingTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shayi\source\repos\maskIP\maskingTool\obj\Debug\net5.0\maskingTool.AssemblyInfoInputs.cache
+C:\Users\shayi\source\repos\maskIP\maskingTool\obj\Debug\net5.0\maskingTool.AssemblyInfo.cs
+C:\Users\shayi\source\repos\maskIP\maskingTool\obj\Debug\net5.0\maskingTool.csproj.CoreCompileInputs.cache
+C:\Users\shayi\source\repos\maskIP\maskingTool\obj\Debug\net5.0\maskingTool.dll
+C:\Users\shayi\source\repos\maskIP\maskingTool\obj\Debug\net5.0\ref\maskingTool.dll
+C:\Users\shayi\source\repos\maskIP\maskingTool\obj\Debug\net5.0\maskingTool.pdb
+C:\Users\shayi\source\repos\maskIP\maskingTool\obj\Debug\net5.0\maskingTool.csprojAssemblyReference.cache

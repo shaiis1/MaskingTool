@@ -1,0 +1,28 @@
+::ng-deep .form-control{
+    width: 50% !important;
+    margin: 0 2rem !important;
+    font-family: fantasy !important;
+}
+
+.label{
+    margin: 0 2rem !important;
+    font-family: fantasy !important;
+    font-weight: 100 !important;
+}
+
+::ng-deep .btn-primary{
+    background-color: rgb(0, 255, 64) !important;
+    color: black;
+    border-color: black !important;
+    margin: 1rem 2rem !important;
+    font-family: fantasy !important;
+}
+
+.title{
+    text-align: center;
+    font-family: fantasy;
+}
+
+.container{
+    background-color: rgb(202, 198, 198);
+}

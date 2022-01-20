@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "maskIP/1.0.0": {
+        "dependencies": {
+          "maskingTool": "1.0.0"
+        },
+        "runtime": {
+          "maskIP.dll": {}
+        }
+      },
+      "maskingTool/1.0.0": {
+        "runtime": {
+          "maskingTool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "maskIP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "maskingTool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
